@@ -1,3 +1,5 @@
+package day2
+
 import java.io.File
 
 sealed interface Command {

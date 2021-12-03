@@ -1,3 +1,5 @@
+package day1
+
 import java.io.File
 
 fun List<Int>.countIncreases(): Int {

@@ -6,3 +6,5 @@ I have been recording me solving those puzzles and the videos are available on *
 ([Playlist](https://www.youtube.com/playlist?list=PLRJ4pSIA9DGs4TApRoTwvAe2R92WjXElv))
 
 * [Day 1](https://www.youtube.com/watch?v=g_awvDAd9f0)
+* [Day 2](https://www.youtube.com/watch?v=XHiBxin8KYk)
+
