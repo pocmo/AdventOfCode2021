@@ -10,4 +10,5 @@ I have been recording me solving those puzzles and the videos are available on *
 * [Day 3](https://www.youtube.com/watch?v=nKyAFrCmwtg)
 * [Day 4](https://www.youtube.com/watch?v=_-iVrIIHif4)
 * [Day 5](https://www.youtube.com/watch?v=RpoMEF2jrHU)
+* [Day 6](https://www.youtube.com/watch?v=viBer3OX7CI)
 
