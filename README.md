@@ -15,4 +15,4 @@ I have been recording me solving those puzzles and the videos are available on *
 * [Day 8](https://www.youtube.com/watch?v=lD8ve2-tGbQ)
 * [Day 9](https://www.youtube.com/watch?v=0Rax4myMaAg)
 * [Day 10](https://www.youtube.com/watch?v=NHakgkVtnk4)
-
+* [Day 11](https://www.youtube.com/watch?v=JXnaZElDNpw)
