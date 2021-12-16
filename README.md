@@ -19,3 +19,5 @@ I have been recording me solving those puzzles and the videos are available on *
 * [Day 12](https://www.youtube.com/watch?v=WBTpa9pqsgg)
 * [Day 13](https://www.youtube.com/watch?v=2IuW7ne_Yog)
 * [Day 14](https://www.youtube.com/watch?v=zodjpF1AmCM)
+* [Day 15](https://www.youtube.com/watch?v=YcZRfgABB6Y)
+* [Day 16](https://www.youtube.com/watch?v=Lw8HAJeoE2Q)
