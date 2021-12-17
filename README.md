@@ -21,3 +21,4 @@ I have been recording me solving those puzzles and the videos are available on *
 * [Day 14](https://www.youtube.com/watch?v=zodjpF1AmCM)
 * [Day 15](https://www.youtube.com/watch?v=YcZRfgABB6Y)
 * [Day 16](https://www.youtube.com/watch?v=Lw8HAJeoE2Q)
+* [Day 17](https://www.youtube.com/watch?v=VGNmG1PbUrY)
